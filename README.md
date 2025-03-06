@@ -20,6 +20,7 @@ Currently, I have baeen added some features like:
 5. (.env file)
    
 PORT=5000
+
 MONGO_URL=mongodb+srv://<password>:7oqe12p3W6jn3aOj@cluster0.6crff.mongodb.net/doctorbackend?retryWrites=true&w=majority&appName=Cluster0
 
 JWT_SECRET_KEY=
