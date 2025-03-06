@@ -21,7 +21,7 @@ Currently, I have baeen added some features like:
 6. then, run the frontend with "npm run dev"
 
 
-Github link: https://github.com/Abhishekk2508
+Github link: [https://github.com/Abhishekk2508](https://github.com/Abhishekk2508/Dr_appointment)
 
 
 
