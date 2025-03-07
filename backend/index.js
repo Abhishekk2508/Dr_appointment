@@ -12,7 +12,7 @@ import BookingRoute from "./Routes/booking.js";
 dotenv.config();
 
 const app = express();
-const port = process.env.PORT || https://dr-appointment-d94h.onrender.com;
+const port = process.env.PORT || PORT:8000;
 
 const corsOptions = {
   origin: true,
