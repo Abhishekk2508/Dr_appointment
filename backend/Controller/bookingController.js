@@ -3,6 +3,8 @@ import Doctor from '../models/DoctorSchema.js';
 import Booking from '../models/BookingSchema.js';
 import Stripe from 'stripe';
 
+const frontend_URL = 'https://dr-appointment-frontend-ynpx.onrender.com/home';
+
 export const getCheckoutSession = async (req, res) => {
     try {
         const doctor = await Doctor.findById(req.params.doctorId);
